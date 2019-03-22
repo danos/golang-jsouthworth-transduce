@@ -1,0 +1,16 @@
+Source: golang-jsouthworth-transduce
+Section: devel
+Priority: extra
+Maintainer: John Southworth <jx756k@att.com>
+Build-Depends: debhelper (>= 9), dh-golang, golang-go, golang-jsouthworth-dyn-dev
+Standards-Version: 3.9.8
+Homepage: https://jsouthworth.net/go/transduce
+
+Package: golang-jsouthworth-transduce-dev
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Built-Using: ${misc:Built-Using}
+Description: Transducers for go
+ A transducer library for the go programming language
+ .
+ This package contains the source.

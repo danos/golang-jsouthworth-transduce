@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+export DH_GOPKG := jsouthworth.net/go/transduce
+
+%:
+	dh $@ --buildsystem=golang --with=golang
+
