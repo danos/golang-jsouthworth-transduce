@@ -4,4 +4,4 @@ golang-jsouthworth-transduce (1.0-1) unstable; urgency=medium
   * Add documentation
   * transduce: use dyn.Apply instead of internal implementation
 
- -- John Southworth <jx756k@att.com>  Fri, 22 Mar 2019 14:17:00 -0700
+ -- John Southworth <jx756k@att.com>  Tue, 09 Jul 2019 09:42:37 -0700
