@@ -1,3 +1,9 @@
+golang-jsouthworth-transduce (1.0.1-1) unstable; urgency=medium
+
+  * transducer: rework wrapping functions
+
+ -- John Southworth <jx756k@att.com>  Thu, 12 Dec 2019 13:14:21 -0800
+
 golang-jsouthworth-transduce (1.0-1) unstable; urgency=medium
 
   * Initial commit
